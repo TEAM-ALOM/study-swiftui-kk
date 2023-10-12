@@ -27,6 +27,7 @@ struct ContentView: View {
                 .tag(Tab.list)
         }
     }
+    //주석추가
 }
 
 
